@@ -166,6 +166,7 @@ def Advertise(Datapath):
     print(Border)
     print("STEP 13 : PLOT ACTUAL VS PREDICTED")
     print(Border)
+    print("Changes made successfully!")
 
     plt.figure(figsize=(8,5))
     plt.scatter(Y_test,Y_pred)
