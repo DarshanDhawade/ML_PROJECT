@@ -1,0 +1,4 @@
+Model,MAE,RMSE,R2
+Linear Regression,1.25,1.75,0.89
+Polynomial Regression (Degree 2),0.98,1.42,0.93
+Random Forest,0.85,1.30,0.95
